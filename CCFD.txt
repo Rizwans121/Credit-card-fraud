@@ -1,0 +1,7 @@
+Credit card fraud detection
+This notebook will test different methods on skewed data. The idea is to compare if preprocessing techniques work better when there is an overwhelming majority class that can disrupt the efficiency of our predictive model.
+You will also be able to see how to apply cross validation for hyperparameter tuning on different classification models. My intention is to create models using:
+Logistic Regression
+SVMs
+Decision trees
+I also want to have a try at anomaly detection techniques, but I still have to investigate a bit on that, so any advise will be appreciated!
